@@ -17,20 +17,4 @@
     assim que terminar de baixar todas as imagens e finalizar a inicialização do banco de dados e da api,
     basta usar o arquivo postman -> API requests.postman_collection.json na raiz do projeto, que contem todas as requisições da api;
 
-### 🔧 Instalação
-
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
-
-```
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
+### 🔧 Depois de completar estes passos é só consumir a api com o postman
