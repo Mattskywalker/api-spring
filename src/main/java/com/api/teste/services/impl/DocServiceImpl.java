@@ -5,6 +5,7 @@ import com.api.teste.repository.DocRepository;
 import com.api.teste.services.DocService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cache.support.NullValue;
+import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

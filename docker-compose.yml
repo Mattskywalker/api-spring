@@ -21,3 +21,5 @@ services:
       - SPRING_DATASOURCE_URL=jdbc:postgresql://db:5432/documents
       - SPRING_DATASOURCE_USERNAME=postgres
       - SPRING_DATASOURCE_PASSWORD=mattskywalker
+    links:
+      - db
