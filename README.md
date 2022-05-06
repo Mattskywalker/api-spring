@@ -7,9 +7,9 @@
 É necessario ter o docker e docker-composer instalado na maquina,
 
 primeiro passo é gerar a build do projeto java
-    ```
-        gradlew clean build jar -x test
-    ```
+
+    ```gradlew clean build jar -x test```
+    
 assim que a build for concluida executar o docker-compose
 
     ```docker-compose up```
